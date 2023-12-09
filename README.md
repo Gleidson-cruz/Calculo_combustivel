@@ -22,7 +22,7 @@ Este é um simples sistema de calculadora de combustível desenvolvido em HTML e
 
 ## Requisitos
 
-- Um servidor web com suporte a PHP.
+- Um servidor web com suporte a PHP. _(método 1)_
 
 ## Notas Adicionais
 
